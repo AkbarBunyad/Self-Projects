@@ -1,0 +1,5 @@
+1. Exploratory Data Analysis (EDA):
+I started by exploring the dataset, uncovering patterns, and gaining insights. Histograms, box plots, and correlation matrices helped me understand relationships between different features and the wine quality score.
+
+2. Data Preprocessing:
+Preprocessing the data was key to ensure accurate predictions. I handled missing values, removed outliers and dealt with imbalanced data.
